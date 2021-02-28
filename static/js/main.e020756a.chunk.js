@@ -1894,7 +1894,7 @@
                             }
                         }, r.a.createElement("img", {
                             src: a(355)
-                        }), r.a.createElement("span", null, "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442")), r.a.createElement("div", {
+                        }), r.a.createElement("span", null, "\u041f\u0440\u043e\u0439\u0442\u0438 \u0442\u0435\u0441\u0442 \u043d\u0430 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0432\u043e\u0437\u0440\u0430\u0441\u0442")), r.a.createElement("div", {
                             style: {
                                 height: 12
                             }

@@ -1913,7 +1913,7 @@
                             className: "Custom_Button--Big Custom_Button--Gradient",
                             onClick: function() {
                                 return v.a.send("VKWebAppOpenApp", {
-                                    app_id: 7775725
+                                    app_id: 7667878
                                 })
                             }
                         }, r.a.createElement("img", {

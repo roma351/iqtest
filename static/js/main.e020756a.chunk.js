@@ -1173,6 +1173,9 @@
                                     case 17:
                                         this.randomPhrase();
                                     case 18:
+                                        v.a.send("VKWebAppShowNativeAds", {
+                                            ad_format: "preloader"
+                                        });
                                         ft(["Montserrat SemiBold", "SF Pro Display Bold"]), v.a.send("VKWebAppInit");
                                     case 20:
                                     case "end":
@@ -1347,6 +1350,9 @@
                                             popout: r.a.createElement(A.i, null)
                                         }), e.next = 3, this.getStoryCanvas();
                                     case 3:
+                                        v.a.send("VKWebAppShowNativeAds", {
+                                            ad_format: "interstitial"
+                                        });
                                         t = e.sent, this.setState({
                                             popout: null
                                         }), v.a.send("VKWebAppShowStoryBox", {
